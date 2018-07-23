@@ -1,7 +1,0 @@
-spring:
-  application:
-    name: log-monitoring-app
-#server:
-  #port: 8090  
-logfile:
-  path: /home/nikunj/testing.txt

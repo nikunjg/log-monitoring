@@ -1,4 +1,0 @@
-// Reading and writing file
-					RandomAccessFile readWriteFileAccess = new RandomAccessFile(crunchifyFile, "rw");
-					readWriteFileAccess.seek(lastKnownPosition);
-				
